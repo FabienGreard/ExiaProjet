@@ -11,6 +11,7 @@ using namespace std;
 
 /*
  * voici une modification lul
+ * ceci est un commentaire
  */
 int main(int argc, char** argv) {
 
