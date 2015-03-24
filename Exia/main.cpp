@@ -10,7 +10,7 @@
 using namespace std;
 
 /*
- * voici une modification lul nik t mort
+ * voici une modification lul
  */
 int main(int argc, char** argv) {
 
